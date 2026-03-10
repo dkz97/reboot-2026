@@ -1,36 +1,17 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# reboot-2026
 
-## Getting Started
+2026，重启人生。
 
-First, run the development server:
+从 Java 后端出发，做过 Solana 链上交易工具，现在专注 AI 应用落地。目标是把自己打磨成一个真正能做事的 AI 应用工程师 / 智能体工程师。
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+这个博客记录这一路的项目、思考和成长。
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 网站
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+https://dkz97.github.io/reboot-2026
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 技术栈
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Next.js + TypeScript
+- NES.css（像素风格）
+- GitHub Pages（静态部署）
