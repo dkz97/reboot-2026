@@ -10,6 +10,11 @@
 
 https://dkz97.github.io/reboot-2026
 
+## 联系
+
+- GitHub: https://github.com/dkz97
+- X / Twitter: https://x.com/shutwbtc
+
 ## 技术栈
 
 - Next.js + TypeScript

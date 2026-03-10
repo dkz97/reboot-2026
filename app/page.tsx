@@ -86,14 +86,24 @@ export default function Home() {
       {/* CONTACT */}
       <section className="nes-container with-title">
         <p className="title">CONTACT</p>
-        <a
-          href="https://github.com/dkz97"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="nes-btn is-primary"
-        >
-          GitHub
-        </a>
+        <div style={{ display: "flex", gap: "16px", flexWrap: "wrap" }}>
+          <a
+            href="https://github.com/dkz97"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="nes-btn is-primary"
+          >
+            GitHub
+          </a>
+          <a
+            href="https://x.com/shutwbtc"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="nes-btn"
+          >
+            X / Twitter
+          </a>
+        </div>
       </section>
     </div>
   );
