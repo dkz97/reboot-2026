@@ -1,3 +1,9 @@
+---
+title: "LP-Sonar 项目"
+date: "2026-03-24"
+description: "一个币圈监控LP的项目，并且加上大模型对话，用于平时使用以及以后面试AI agent enginner"
+---
+
 # LP-Sonar
 
 LP-Sonar 是一个面向 **DeFi LP（Liquidity Provider）机会发现与风险监控** 的前后端分离系统，聚焦于链上 Token 与流动性池的持续扫描、分层监控、风险识别和 LP 决策支持。
