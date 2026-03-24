@@ -2,6 +2,13 @@ import ProjectCard from "@/components/ProjectCard";
 
 const projects = [
   {
+    title: "LP-Sonar",
+    description: "DeFi LP 机会发现与风险监控系统，支持热点 Token 分层追踪、主池识别、无常损失评估和 LP 决策生成。集成 OKX OnchainOS MCP、DexScreener 等多数据源。",
+    tech: ["Python", "FastAPI", "Next.js", "Redis"],
+    githubUrl: "https://github.com/dkz97/LP-Sonar",
+    status: "进行中" as const,
+  },
+  {
     title: "reboot-2026",
     description: "我的个人博客网站，像素风格，记录项目和文章。用 Next.js 构建，部署在 GitHub Pages。",
     tech: ["Next.js", "TypeScript", "NES.css"],
